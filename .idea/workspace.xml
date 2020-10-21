@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="20cafc21-951e-44de-bc7c-ac1bfca72c56" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/photo/face.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/photo/email.png" beforeDir="false" afterPath="$PROJECT_DIR$/photo/email.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/photo/facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/photo/facebook.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/photo/phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/photo/phone.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/photo/twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/photo/twitter.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1j5Xm5wrW8xz42yQt3w4sKKf5gA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="20cafc21-951e-44de-bc7c-ac1bfca72c56" name="Default Changelist" comment="" />
+      <created>1603095081380</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603095081380</updated>
+      <workItem from="1603095082483" duration="22408000" />
+      <workItem from="1603196688328" duration="31000" />
+      <workItem from="1603196733272" duration="6161000" />
+      <workItem from="1603202961973" duration="5000" />
+      <workItem from="1603203940700" duration="4519000" />
+      <workItem from="1603214428488" duration="7780000" />
+      <workItem from="1603261168085" duration="4407000" />
+      <workItem from="1603265848836" duration="1003000" />
+      <workItem from="1603267195194" duration="665000" />
+      <workItem from="1603267958331" duration="1406000" />
+      <workItem from="1603273045645" duration="85000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>

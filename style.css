@@ -1,0 +1,588 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+html, body {
+    margin: auto;
+    width: 1920px;
+    height: 100%;
+}
+.main {
+    height: 100%;
+}
+.backgroundH {
+    background-image: url("photo/header.png");
+    background-size: contain;
+    background-position: top;
+    background-repeat: no-repeat;
+    height: 945px;
+}
+.textColour {
+    color: #ffffff;
+}
+.button {
+    padding:0.5em 3em;
+}
+.logoMargin {
+    padding-top: 16em;
+}
+.scrollMargin {
+    padding-top: 11em;
+}
+.backgroundH2 {
+    background-image: url("photo/services.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 414px;
+}
+.servicesMargin {
+    padding-top: 4em;
+    padding-bottom: 2em;
+}
+.marginText {
+    margin-top: 1.5em;
+}
+.textSize {
+    font-size: 0.9em;
+}
+.backgoundPortfolio {
+    background-image: url("photo/portfolio.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 973px;
+}
+.portfolioMargin {
+    padding-top: 17em;
+    padding-bottom: 4em;
+}
+.backgroundTeam {
+    background-image: url("photo/team.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 555px;
+}
+.teamTextMargin {
+    margin-bottom: 1em;
+}
+.name {
+    color: #3471eb;
+    font-size: 1rem;
+}
+.backgroundOffices {
+    background-image: url("photo/offices.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 935px;
+}
+.officesMargin {
+    padding-top: 17em;
+}
+.backgroundClients {
+    background-image: url("photo/clients.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 505px;
+}
+.clientMargin {
+    padding-top: 4em;
+}
+.backgroundContact {
+    background-image: url("photo/contact.png");
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 745px;
+}
+.contactMargin {
+    padding-top: 17em;
+}
+.contactTextMargin {
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+.bottomTextMargin {
+    padding-top: 5em;
+}
+@media (max-width: 575px) {
+    html, body {
+        margin: auto;
+        width: 580px;
+        height: 100%;
+    }
+    .backgroundH {
+        height: 275px;
+    }
+    .button {
+        padding:0.5em 3em;
+    }
+    .imgSize {
+        height: 3em;
+        width: 3em;
+    }
+    .imgSizeNav{
+        height: 35%;
+        width: 35%;
+    }
+    .logoMargin {
+        padding-top:0;
+    }
+    .scrollMargin {
+        padding-top:1em;
+    }
+    .textSizeSmall {
+        font-size: 0.5em;
+    }
+    .btn-responsive {
+        padding:2px 4px;
+        font-size:60%;
+        line-height: 1;
+    }
+    .backgroundH2 {
+        height: 120px;
+    }
+    .servicesMargin {
+        padding-top: 1em;
+        padding-bottom: 0;
+    }
+    .activityLogo {
+        height: 1.5em;
+        width: 5.5em;
+    }
+    .textSize {
+        font-size: 0.5em;
+    }
+    .imgSize2 {
+        height: 2.5em;
+        width: 2.5em;
+    }
+    .backgoundPortfolio {
+        height: 282px;
+    }
+    .portfolioMargin {
+        padding-top:5em;
+        padding-bottom:1em;
+    }
+    .imgSize3 {
+        height: 60px;
+    }
+    .backgroundTeam {
+        height: 160px;
+    }
+    .backgroundOffices {
+        height: 272px;
+    }
+    .officesMargin {
+        padding-top: 5em;
+    }
+    .backgroundClients {
+        height: 147px;
+    }
+    .clientMargin {
+        padding-top: 1.5em;
+    }
+    .marginText {
+        padding-top: 0;
+    }
+    .imgSize4 {
+        height: 85px;
+    }
+    .backgroundContact {
+        height: 235px;
+    }
+    .contactMargin {
+        padding-top: 5em;
+    }
+    .bottomTextMargin {
+        padding-top: 0;
+    }
+    .contactTextMargin {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .imgSize5 {
+        height: 40%;
+    }
+}
+@media (min-width: 576px) and (max-width: 767px){
+    html, body {
+        margin: auto;
+        width: 770px;
+        height: 100%;
+    }
+    .backgroundH {
+        height: 370px;
+    }
+    .button {
+        padding:0.5em 3em;
+    }
+    .imgSize {
+        height: 4em;
+        width: 4em;
+    }
+    .imgSizeNav{
+        height: 3em;
+        width: 5em;
+    }
+    .logoMargin {
+        padding-top:0;
+    }
+    .textSizeSmall {
+        font-size: 0.8em;
+    }
+    .btn-responsive {
+        padding:4px 8px;
+        font-size:60%;
+        line-height: 1;
+    }
+    .scrollMargin {
+        padding-top: 0;
+    }
+    .imgSizeScroll {
+        height: 2em;
+        width: 4em;
+    }
+    .backgroundH2 {
+        height: 162px;
+    }
+    .servicesMargin {
+        padding-top: 1em;
+        padding-bottom: 0;
+    }
+    .textSize {
+        font-size: 0.7em;
+    }
+    .activityLogo {
+        height: 1.5em;
+        width: 5.5em;
+    }
+    .textSize {
+        font-size: 0.3em;
+    }
+    .imgSize2 {
+        height: 2.5em;
+        width: 2.5em;
+    }
+    .backgoundPortfolio {
+        height: 380px;
+    }
+    .portfolioMargin {
+        padding-top:7em;
+        padding-bottom:1em;
+    }
+    .imgSize3 {
+        height: 80px;
+    }
+    .backgroundTeam {
+        height: 217px;
+    }
+    .teamTextMargin {
+        margin-bottom: 0;
+    }
+    .name {
+        font-size: 0.5rem;
+    }
+    .backgroundOffices {
+        height: 365px;
+    }
+    .officesMargin {
+        padding-top: 7em;
+    }
+    .backgroundClients {
+        height: 197px;
+    }
+    .clientMargin {
+        padding-top: 1.5em;
+    }
+    .marginText {
+        padding-top: 0;
+    }
+    .imgSize4 {
+        height: 80px;
+    }
+    .backgroundContact {
+        height: 300px;
+    }
+    .contactMargin {
+        padding-top: 7em;
+    }
+    .bottomTextMargin {
+        padding-top: 0;
+    }
+    .contactTextMargin {
+        margin-top: 0.5em;
+        margin-bottom: 0;
+    }
+    .imgSize5 {
+        height: 50%;
+    }
+}
+@media (min-width: 768px) and (max-width: 1000px) {
+    html, body {
+        width: 1260px;
+        height: 100%;
+    }
+    .backgroundH {
+        background-position: top;
+        height: 615px;
+    }
+    .button {
+        padding:0.5em 3em;
+    }
+    .imgSize {
+        height: 4.5em;
+        width: 4.5em;
+    }
+    .imgSizeNav{
+        height: 3em;
+        width: 5em;
+    }
+    .logoMargin {
+        padding-top:7em;
+    }
+    .scrollMargin {
+        padding-top:5em;
+    }
+    .backgroundH2 {
+        height: 270px;
+    }
+    .servicesMargin {
+        padding-top: 1em;
+        padding-bottom: 0;
+    }
+    .textSize {
+        font-size: 0.7em;
+    }
+    .backgoundPortfolio {
+        height: 633px;
+    }
+    .portfolioMargin {
+        padding-top:10em;
+        padding-bottom:1em;
+    }
+    .imgSize3 {
+        height: 150px;
+    }
+    .backgroundTeam {
+        height: 360px;
+    }
+    .teamTextMargin {
+        margin-bottom: 0;
+    }
+    .backgroundOffices {
+        height: 608px;
+    }
+    .officesMargin {
+        padding-top: 10em;
+    }
+    .backgroundClients {
+        height: 330px;
+    }
+    .clientMargin {
+        padding-top: 1.5em;
+    }
+    .marginText {
+        padding-top: 0;
+    }
+    .imgSize4 {
+        height: 150px;
+    }
+    .backgroundContact {
+        height: 500px;
+    }
+    .contactMargin {
+        padding-top: 10em;
+    }
+    .bottomTextMargin {
+        padding-top: 0;
+    }
+    .contactTextMargin {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .imgSize5 {
+        height: 70%;
+    }
+}
+@media (min-width: 1001px) and (max-width: 1200px) {
+    html, body {
+        width: 1200px;
+        height: 100%;
+    }
+    .backgroundH {
+        background-position: top;
+        height: 585px;
+    }
+    .button {
+        padding:0.5em 3em;
+    }
+    .logoMargin {
+        padding-top:5em;
+    }
+    .scrollMargin {
+        padding-top:2em;
+    }
+    .activityLogo {
+        height: 2.5em;
+        width: 8em;
+    }
+    .backgroundH2 {
+        height: 256px;
+    }
+    .servicesMargin {
+        padding-top: 1em;
+        padding-bottom: 0;
+    }
+    .imgSize2 {
+        height: 3em;
+        width: 3.5em;
+    }
+    .textSize {
+        font-size: 0.85em;
+    }
+    .backgoundPortfolio {
+        height: 601px;
+    }
+    .portfolioMargin {
+        padding-top:10em;
+        padding-bottom:1em;
+    }
+    .imgSize3 {
+        height: 135px;
+    }
+    .backgroundTeam {
+        height: 343px;
+    }
+    .teamTextMargin {
+        margin-bottom: 0;
+    }
+    .cardIMG {
+        height: 9em;
+        width: 12em;
+    }
+    .name {
+        font-size: 0.75rem;
+    }
+    .textSize {
+        font-size: 0.7rem;
+    }
+    .backgroundOffices {
+        height: 578px;
+    }
+    .officesMargin {
+        padding-top: 10em;
+    }
+    .backgroundClients {
+        height: 313px;
+    }
+    .clientMargin {
+        padding-top: 1.5em;
+    }
+    .marginText {
+        padding-top: 0;
+    }
+    .imgSize4 {
+        height: 150px;
+    }
+    .backgroundContact {
+        height: 470px;
+    }
+    .contactMargin {
+        padding-top: 10em;
+    }
+    .bottomTextMargin {
+        padding-top: 0;
+    }
+    .contactTextMargin {
+        margin-top: 0;
+        margin-bottom: 0;
+    }
+    .imgSize5 {
+        height: 70%;
+    }
+}
+@media (min-width: 1201px) and (max-width: 1340px) {
+    html, body {
+        width: 1340px;
+        height: 100%;
+    }
+    .backgroundH {
+        background-position: top;
+        height: 655px;
+    }
+    .button {
+        padding:0.5em 3em;
+    }
+    .logoMargin {
+        padding-top:5em;
+    }
+    .scrollMargin {
+        padding-top:5em;
+    }
+    .backgroundH2 {
+        height: 285px;
+    }
+    .servicesMargin {
+        padding-top: 1em;
+        padding-bottom: 0;
+    }
+    .backgoundPortfolio {
+        height: 675px;
+    }
+    .portfolioMargin {
+        padding-top:10em;
+        padding-bottom:1em;
+    }
+    .imgSize3 {
+        height: 165px;
+    }
+    .backgroundTeam {
+        height: 383px;
+    }
+    .teamTextMargin {
+        margin-bottom: 0;
+    }
+    .cardIMG {
+        height: 11em;
+        width: 12em;
+    }
+    .name {
+        font-size: 0.85rem;
+    }
+    .textSize {
+        font-size: 0.7rem;
+    }
+    .backgroundOffices {
+        height: 648px;
+    }
+    .officesMargin {
+        padding-top: 10em;
+    }
+    .backgroundClients {
+        height: 351px;
+    }
+    .clientMargin {
+        padding-top: 1.5em;
+    }
+    .marginText {
+        padding-top: 0;
+    }
+    .imgSize4 {
+        height: 190px;
+    }
+    .backgroundContact {
+        height: 530px;
+    }
+    .contactMargin {
+        padding-top: 10em;
+    }
+    .bottomTextMargin {
+        padding-top: 1em;
+    }
+    .contactTextMargin {
+        margin-top: 1em;
+        margin-bottom: 0;
+    }
+    .imgSize5 {
+        height: 85%;
+    }
+}
+
