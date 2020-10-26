@@ -110,7 +110,7 @@ html, body {
     .backgroundH {
         background-position: center center;
         background-size: cover;
-        height: 100%;
+        height: fit-content;
     }
     .align {
         text-align: center;
@@ -120,6 +120,9 @@ html, body {
     }
     .logoMargin {
         padding-top:5em;
+    }
+    .scrollMargin {
+        padding-bottom: 1em;
     }
     .backgroundH2 {
         background-position: center center;
@@ -139,6 +142,9 @@ html, body {
         padding-top: 17em;
         padding-bottom: 1em;
     }
+    .marginPortfolioPhoto {
+        padding-bottom: 2em;
+    }
     .backgroundTeam {
         background-position: center center;
         background-size: cover;
@@ -152,7 +158,10 @@ html, body {
     .backgroundClients {
         background-position: center center;
         background-size: cover;
-        height: fit-content;
+        height: 5%;
+    }
+    .marginTopClient {
+        padding-top: 3em;
     }
     .backgroundContact {
         background-position: center center;
@@ -160,7 +169,7 @@ html, body {
         height: fit-content;
     }
     .contactMargin {
-        padding-top: 25em;
+        padding-top: 23em;
     }
     .contactTextMargin {
         margin-top: 1.5em;

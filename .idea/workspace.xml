@@ -2,13 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="20cafc21-951e-44de-bc7c-ac1bfca72c56" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/photo/face.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photo/email.png" beforeDir="false" afterPath="$PROJECT_DIR$/photo/email.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photo/facebook.png" beforeDir="false" afterPath="$PROJECT_DIR$/photo/facebook.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photo/phone.png" beforeDir="false" afterPath="$PROJECT_DIR$/photo/phone.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/photo/twitter.png" beforeDir="false" afterPath="$PROJECT_DIR$/photo/twitter.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -67,7 +62,25 @@
       <workItem from="1603267195194" duration="665000" />
       <workItem from="1603267958331" duration="1406000" />
       <workItem from="1603273045645" duration="85000" />
+      <workItem from="1603274092561" duration="368000" />
+      <workItem from="1603275620804" duration="254000" />
+      <workItem from="1603279167737" duration="5562000" />
+      <workItem from="1603284938516" duration="48000" />
+      <workItem from="1603703232315" duration="1997000" />
     </task>
+    <task id="LOCAL−00001" summary="Pataisytas del mobilaus responsive desing">
+      <created>1603284752939</created>
+      <option name="number" value="LOCAL−00001" />
+      <option name="presentableId" value="LOCAL−00001" />
+      <updated>1603284752939</updated>
+    </task>
+    <task id="LOCAL−00002" summary="Pataisytas del mobilaus responsive desing">
+      <created>1603284972669</created>
+      <option name="number" value="LOCAL−00002" />
+      <option name="presentableId" value="LOCAL−00002" />
+      <updated>1603284972669</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -75,5 +88,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Pataisytas del mobilaus responsive desing" />
+    <option name="LAST_COMMIT_MESSAGE" value="Pataisytas del mobilaus responsive desing" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="345" y="0" key="CommitChangelistDialog2" timestamp="1603284971822">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="345" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1603284971822" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1603284974924">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1603284974924" />
   </component>
 </project>
